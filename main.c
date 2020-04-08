@@ -4,6 +4,7 @@
 int main(){
 	printf("Hello World\n");
 	func();
+	func();
 
 	return 0;
 }
