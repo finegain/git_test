@@ -3,5 +3,6 @@
 
 void func(){
 	printf("Function 1\n");
+
 	return;
 }
